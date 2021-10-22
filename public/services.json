@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": "2000",
+        "img": "https://image.freepik.com/free-photo/car-mechanic-changing-wheels-car_1303-26651.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Replace air filter",
+        "price": "3000",
+        "img": "https://image.freepik.com/free-photo/replacing-air-filter-car-repair_255766-9117.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Brake Work",
+        "price": "400",
+        "img": "https://image.freepik.com/free-photo/mechanic-fixing-car-brake_1170-1663.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Antifreeze added",
+        "price": "300",
+        "img": "https://image.freepik.com/free-photo/person-pouring-antifreeze-car-wintertime_158217-2729.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Battery replacement",
+        "price": "5000",
+        "img": "https://image.freepik.com/free-photo/engine-engineer-is-replacing-car-battery-because-car-battery-is-depleted-concept-car-maintenance-winter_524378-247.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Wiper blades replacement",
+        "price": "2500",
+        "img": "https://image.freepik.com/free-photo/mechanic-is-changing-wipers-parking-lot-change-wiper-tires-prepare-windshield-cleaning-while-raining-during-rainy-season_140555-459.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+.service {
+    background-color: rgb(156, 171, 216);
+    border-radius: 20px;
+}
+.service img {
+    border-radius: 20px;
+}
+
+/* .service p::before {
+    content: "I Love You";
+} */
